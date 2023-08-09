@@ -139,7 +139,7 @@ const OrderDetail = () => {
           </div>
           <div className="profile_content">
             <span className="profile_title">
-              <p className="content">{/* 내용 */}</p>
+              <p className="content"></p>
             </span>
           </div>
         </div>
