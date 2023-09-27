@@ -30,7 +30,7 @@
 </div>
 
 <div align="center">
-  - [GitHub] <a href="https://github.com/devdong9897/campingsmore"> </a> <br/>
+  - [GitHub] <a href="https://github.com/devdong9897/campingsmore">깃허브</a> <br/>
   - [Notion](https://www.notion.so/TEAM-PROJECT3-c8700645684148ebbb54cd13365ee8cf)) <br/>
   - [Figma] (https://www.figma.com/file/gBaoqSAs24bzZh6w4ad8tp/Untitled?type=design&node-id=0-1&mode=design&t=UrIUrZ3CI4y7xys5-0) <br/>
   - 프로젝트 시연영상 - <br/>
